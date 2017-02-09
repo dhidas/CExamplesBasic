@@ -58,13 +58,6 @@ int main (int argc, char* argv[])
     std::cout << "got an exception, but catch-all caught it" << std::endl;
   }
 
-  // There is also a generic throw with no argument
-  try {
-    ThrowItAtMe();
-  } catch (...) {
-    std::cout << "got it again" << std::endl;
-  }
-
 
   std::cout << "An uncaught exception will cause major problems" << std::endl;
 
