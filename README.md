@@ -8,4 +8,33 @@ and run:
 
    ./NAME
 
-where NAME is the name of the file you wish to compile.
+where NAME is the name of the file you wish to compile.  For example to compile the first example:
+
+   g++ AHelloWorld.cc -o AHelloWorld
+
+and run:
+
+   ./AHelloWorld
+
+
+
+## Order
+
+The examples are in alphabetical order, starting with A
+
+## Help
+
+### References
+
+* http://cppreference.com (my preference)
+* http://www.cplusplus.com
+
+### Q & A
+
+* http://stackoverflow.com
+
+### Books
+
+* A. Koenig, B. E. Moo - Accelerated C++: Practical Programming by Example
+
+
