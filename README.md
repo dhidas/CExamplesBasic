@@ -23,7 +23,7 @@ and run:
 
 ## Order
 
-The examples are in alphabetical order, starting with A
+The examples are in alphabetical order, starting with A, and build somewhat on each other.
 
 ## Help
 
