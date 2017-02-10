@@ -30,10 +30,10 @@ int main (int argc, char* argv[])
   int const MyInt = atoi(argv[1]);
 
   // Get the double argument
-  double const MyFloat = atof(argv[2]);
+  double const MyDouble = atof(argv[2]);
 
   std::cout << "argv[1]: " << MyInt << std::endl;
-  std::cout << "argv[2]: " << MyFloat << std::endl;
+  std::cout << "argv[2]: " << MyDouble << std::endl;
 
   return 0;
 }
