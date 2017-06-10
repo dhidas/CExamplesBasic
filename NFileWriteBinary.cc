@@ -18,6 +18,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <stdexcept>
 
 
 void FileWriteBinary (std::string const& OutFileName)
